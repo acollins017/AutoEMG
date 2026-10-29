@@ -20,21 +20,21 @@ Out_Preview(res, canInsert := true) {
     Gui, AEMG:Font, s9, Segoe UI
     nWarn := rep.warnings.Length()
     head := AutoEMG_PatientLine(rep)
-    Gui, AEMG:Add, Text, w900 cGray, %head%
+    Gui, AEMG:Add, Text, w900 cGray +BackgroundTrans, %head%
     Gui, AEMG:Add, Tab3, w900 h500 hwndhTab, % "Draft|Measured values (" . res.checks.Length() . ")|Notes" . (nWarn ? " (" . nWarn . " warning" . (nWarn > 1 ? "s" : "") . ")" : "")
     Gui, AEMG:Tab, 1
-    Gui, AEMG:Font, s9 Bold
-    Gui, AEMG:Add, Text, , Summary
-    Gui, AEMG:Font, s10 Norm, Segoe UI
+    Gui, AEMG:Font, s10 c1F4E79, Segoe UI
+    Gui, AEMG:Add, Text, +BackgroundTrans, Summary
+    Gui, AEMG:Font, s10 cDefault, Segoe UI
     sum := res.summary
     Gui, AEMG:Add, Edit, w870 h190 +Wrap +Multi +WantReturn hwndhSum, %sum%
-    Gui, AEMG:Font, s9 Bold
-    Gui, AEMG:Add, Text, , Impression (draft - review before signing)
-    Gui, AEMG:Font, s10 Norm, Segoe UI
+    Gui, AEMG:Font, s10 c1F4E79, Segoe UI
+    Gui, AEMG:Add, Text, +BackgroundTrans, Impression (draft - review before signing)
+    Gui, AEMG:Font, s10 cDefault, Segoe UI
     imp := res.impression
     Gui, AEMG:Add, Edit, w870 h200 +Wrap +Multi +WantReturn hwndhImp, %imp%
     Gui, AEMG:Tab, 2
-    Gui, AEMG:Font, s9 Norm, Segoe UI
+    Gui, AEMG:Font, s9, Segoe UI
     Gui, AEMG:Add, ListView, w870 h455 Grid -Multi hwndhLV, Result|Study|Measure|Value|Limit|Source|Note
     Gui, AEMG:Default
     for i, c in res.checks {
@@ -49,9 +49,9 @@ Out_Preview(res, canInsert := true) {
     Gui, AEMG:Font, s9, Segoe UI
     Gui, AEMG:Tab
     if (canInsert)
-        Gui, AEMG:Add, Button, xm w170 h30 Default gAEMG_BtnInsert, &Insert into report
+        Gui, AEMG:Add, Button, xm w170 h30 Default hwndhMain gAEMG_BtnInsert, &Insert into report
     else
-        Gui, AEMG:Add, Button, xm w170 h30 Default gAEMG_BtnCopyBoth, &Copy both
+        Gui, AEMG:Add, Button, xm w170 h30 Default hwndhMain gAEMG_BtnCopyBoth, &Copy both
     Gui, AEMG:Add, Button, x+8 w130 h30 gAEMG_BtnCopySum, Copy &summary
     Gui, AEMG:Add, Button, x+8 w130 h30 gAEMG_BtnCopyImp, Copy i&mpression
     if (canInsert)
@@ -60,6 +60,9 @@ Out_Preview(res, canInsert := true) {
     Gui, AEMG:Add, Button, x+8 w90 h30 gAEMG_OnClose, Cancel
     AEMG_GUI.hGui := hGui, AEMG_GUI.hSum := hSum, AEMG_GUI.hImp := hImp, AEMG_GUI.res := res
     Gui, AEMG:Show, AutoSize Center
+    ; Start on the main button so Enter inserts and a stray keystroke cannot
+    ; overwrite the (otherwise focused and selected) draft text.
+    ControlFocus, , ahk_id %hMain%
     WinWaitClose, ahk_id %hGui%
     return {action: AEMG_GUI.action, summary: AEMG_GUI.summary, impression: AEMG_GUI.impression, copied: AEMG_GUI.copied}
 }
@@ -187,6 +190,7 @@ Out_WordParaText(p) {
 }
 
 Out_WordAfterHeading(doc, regex, text) {
+    global CFG
     text := StrReplace(text, "`r`n", "`r")
     try {
         for p in doc.Paragraphs {
@@ -195,11 +199,12 @@ Out_WordAfterHeading(doc, regex, text) {
             nxt := ""
             try nxt := p.Next()
             if (IsObject(nxt) && Out_WordParaText(nxt) = "") {
-                r := nxt.Range
-            } else {
+                ; Fill the blank line under the heading; optionally leave a blank line after the text.
+                if (CFG.KeepBlankLine)
+                    nxt.Range.InsertParagraphBefore()
+            } else
                 p.Range.InsertParagraphAfter()
-                r := p.Next().Range
-            }
+            r := p.Next().Range
             r.MoveEnd(1, -1)
             r.Text := text
             r.Font.Reset()
@@ -276,7 +281,7 @@ Out_KeysPasteBelow(text, headingRegex) {
         Send, {End}{Enter}
         Out_Paste(text)
     } else if (t = "")
-        Out_Paste(text)
+        Out_Paste(CFG.KeepBlankLine ? text . "`r`n" : text)
     else
         Out_Paste(text . "`r`n")
     return true

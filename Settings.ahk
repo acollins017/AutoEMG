@@ -21,6 +21,7 @@ Settings_Load() {
     ; "clipboard" = only copy the text; you paste it yourself
     CFG.InsertMethod       := "auto"
     CFG.InsertImpression   := true      ; also insert the draft impression under "Impression:"
+    CFG.KeepBlankLine      := true      ; keep the blank line between the inserted text and the next heading
     CFG.RestoreClipboard   := true      ; put your previous clipboard contents back afterwards
     CFG.NavBacktrack       := 4         ; keystroke mode: lines to back off before scanning
     CFG.NavMaxSteps        := 45        ; keystroke mode: max lines scanned looking for a heading

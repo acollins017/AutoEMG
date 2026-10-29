@@ -1,0 +1,38 @@
+EMG Report
+Full Name:	Test Patient	Sex:	F
+Date of Birth:	3/15/1950	Visit Date:	2/1/2026 10:00 AM
+Height: 5'4"   Weight: 150 lb
+History and Exam:
+Ms. Test presents with left hand weakness. EDX is performed to evaluate for _.
+
+Summary:
+
+Impression:
+
+Motor Nerve Conduction Study
+Nerve / Sites	Muscle	Lat	Ref.	Amp	Ref.	Rel Amp	Dur.	Segments	Distance	Lat Diff	CV	Ref.	Temp.
+		ms	ms	mV	mV	%	ms		mm	ms	m/s	m/s	°C
+L Ulnar - FDI
+   Wrist	FDI	4.1	≤4.5	9.2	≥7.0		6.0	Wrist - FDI	90				33.1
+   B.Elbow	FDI	7.9		8.9		96.7	6.1	B.Elbow - Wrist	210	3.8	55	≥49	33.1
+   A.Elbow	FDI	NR		NR				A.Elbow - B.Elbow	100				33.1
+L Musculocutaneous - Biceps
+   Axilla	Biceps	4.9	≤5.0	4.0	≥5.0			Axilla - Biceps	200				33.0
+
+Sensory Nerve Conduction Study
+Nerve / Sites	Rec. Site	Peak Lat	Ref.	Amp	Ref.	Segments	Distance	CV	Ref.	Temp.
+L Dorsal Ulnar Cutaneous
+   Forearm	Dorsum	2.3	≤2.5	9	≥8	Forearm - Dorsum	80	58	≥50	33.0
+L Med Antebrach Cutaneous
+   Elbow	Forearm	2.5		3.1		Elbow - Forearm	100	55		33.0
+L Median - Dig II (Antidromic)
+   Wrist	Index	3.0	≤3.5	28	≥20	Wrist - Index	140	55	≥50	33.0
+   Palm	Index	1.6		30		Palm - Index	70			33.0
+
+EMG Summary Table
+Side	Muscle	IA	Fib	PSW	Fasc	Other	Poly	Amp	Dur.	Rate	Pattern	Effort
+L	First Dorsal Interosseous	Incr	Rare	None	None	None	1+	2+	Norm	Nml	Reduced	Poor
+L	Abd. Poll. Brev.	Norm	None	None	None	None	Norm	Norm	Norm	Nml	Nml	Max
+L	Flexor Carpi Blah	Norm	None	None	None	None	Norm	Norm	Norm	Nml	Nml	Max
+L	Ext. Indicis	Norm	None	None	None	CRD	Norm	Norm	Norm	Nml	Nml	Max
+L	Cervical paraspinals C8	Norm	None	None	None	None						

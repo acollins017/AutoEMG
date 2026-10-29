@@ -1,0 +1,50 @@
+﻿=== SUMMARY ===
+The left medial antebrachial cutaneous nerve showed a low amplitude. All remaining sensory responses were normal.
+The left ulnar motor nerve at the FDI showed no response with stimulation above the elbow. The left musculocutaneous motor nerve at the Biceps showed low amplitude.
+The left FDI showed increased insertional activity, abnormal spontaneous activity, reduced recruitment, and increased motor unit amplitudes. The left EIP showed complex repetitive discharges. All remaining muscles tested showed normal insertional activity, no abnormal spontaneous activity, normal motor unit amplitudes and durations, and normal recruitment patterns.
+
+=== IMPRESSION ===
+This is an abnormal electrodiagnostic study of the left upper extremity which shows evidence of:
+1. A left, severe ulnar neuropathy at the elbow, demyelinating and axonal. In this clinical context, this is consistent with a left, severe cubital tunnel syndrome.
+2. Nonspecific abnormalities of the left medial antebrachial cutaneous nerve (low amplitude) and the left musculocutaneous motor nerve at the Biceps (low amplitude), of uncertain clinical significance.
+3. Nonspecific needle EMG findings (complex repetitive discharges in the left EIP), of uncertain clinical significance.
+
+=== NOTES ===
+Age: 75   Sex: F   Height: 163 cm   BMI group: 25.6   Normals: AANEM
+Studies parsed: 3 sensory, 2 motor, 0 F-wave, 0 H-reflex, 5 muscles.
+
+WARNINGS
+  * Muscle not recognised: "Flexor Carpi Blah" - it is described in the summary but was not used for localization. Add it as an alias in lib\Anatomy.ahk.
+
+NOTES
+  - Age calculated from date of birth: 75.
+  - Effort was submaximal in the left FDI; recruitment may be under-estimated.
+  - "Abd. Poll. Brev." was matched to Abductor Pollicis Brevis (abbreviation/typo).
+
+ABNORMALITIES ATTRIBUTED TO
+  left medial antebrachial cutaneous nerve -> unexplained
+  left ulnar motor nerve at the FDI -> UNE
+  left musculocutaneous motor nerve at the Biceps -> unexplained
+  left FDI -> UNE
+  left EIP -> unexplained
+
+=== MEASUREMENTS ===
+normal      left dorsal ulnar cutaneous nerve           Peak latency                                      2.3 ms      <= 2.5 ms     Preston & Shapiro
+normal      left dorsal ulnar cutaneous nerve           Amplitude                                         9 uV        >= 8 uV       Preston & Shapiro
+normal      left dorsal ulnar cutaneous nerve           Conduction velocity                               58 m/s      >= 50 m/s     Preston & Shapiro
+normal      left medial antebrachial cutaneous nerve    Peak latency                                      2.5 ms      <= 2.6 ms     AANEM 2016
+ABNORMAL    left medial antebrachial cutaneous nerve    Amplitude                                         3.1 uV      >= 4 uV       AANEM 2016
+no referenceleft medial antebrachial cutaneous nerve    Conduction velocity                               55 m/s                    AANEM 2016
+normal      left median sensory nerve                   Peak latency                                      3 ms        <= 4 ms       AANEM 2016
+normal      left median sensory nerve                   Amplitude                                         28 uV       >= 7 uV       AANEM 2016  [age 50-79, BMI >=24]
+normal      left median sensory nerve                   Conduction velocity                               55 m/s      >= 43 m/s     AANEM 2016
+normal      left median sensory nerve                   Palm Peak latency                                 1.6 ms      <= 2.3 ms     AANEM 2016
+normal      left median sensory nerve                   Palm Amplitude                                    30 uV       >= 6 uV       AANEM 2016
+normal      left median sensory nerve                   Palm Conduction velocity                          -           >= 43 m/s     AANEM 2016
+normal      left ulnar motor nerve at the FDI           Distal latency (Wrist)                            4.1 ms      <= 4.5 ms     Preston & Shapiro (DL/amp); AANEM (CV)
+normal      left ulnar motor nerve at the FDI           Amplitude (Wrist)                                 9.2 mV      >= 7 mV       Preston & Shapiro (DL/amp); AANEM (CV)
+normal      left ulnar motor nerve at the FDI           CV below the elbow                                55 m/s      >= 52 m/s     Preston & Shapiro (DL/amp); AANEM (CV)
+normal      left ulnar motor nerve at the FDI           Amplitude drop below the elbow                    3.3 %       <= 30 %       Preston & Shapiro (DL/amp); AANEM (CV)  [duration change 2%]
+ABNORMAL    left ulnar motor nerve at the FDI           Response at A.Elbow                               NR                          [no response]
+normal      left musculocutaneous motor nerve at the BicepsDistal latency (Axilla)                           4.9 ms      <= 5 ms       report Ref.
+ABNORMAL    left musculocutaneous motor nerve at the BicepsAmplitude (Axilla)                                4 mV        >= 5 mV       report Ref.

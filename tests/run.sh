@@ -5,5 +5,6 @@ set -euo pipefail
 cd "$(dirname "$0")/.."
 AHK="${AHK_EXE:-$HOME/ahk/AutoHotkeyU64.exe}"
 export WINEDEBUG=-all
-SCRIPT="$(winepath -w tests/RunTests.ahk 2>/dev/null)"
-xvfb-run -a wine "$AHK" /ErrorStdOut "$SCRIPT" "$@"
+unset DISPLAY
+SCRIPT="Z:$(pwd | sed 's#/#\\#g')\\tests\\RunTests.ahk"
+xvfb-run -a wine "$AHK" /ErrorStdOut "$SCRIPT" "$@" 2>&1 | grep -v "X connection to"

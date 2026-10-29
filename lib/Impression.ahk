@@ -1130,7 +1130,7 @@ Imp_Leftovers(ctx) {
     if (parts.Length() > 0)
         Imp_Add(ctx, 15, "Nonspecific abnormalities of " . Util_JoinList(parts) . ", of uncertain clinical significance.", "nonspecific")
     if (other.Length() > 0)
-        Imp_Add(ctx, 14, Util_CapFirst(Util_JoinList(other)) . ", which " . (other.Length() > 1 ? "are" : "is") . " nonspecific and of uncertain clinical significance.", "nonspecific")
+        Imp_Add(ctx, 14, "Nonspecific needle EMG findings (" . Util_JoinList(other) . "), of uncertain clinical significance.", "nonspecific")
     if (borderParts.Length() > 0) {
         t := "Borderline abnormalities of " . Util_JoinList(borderParts) . ", of uncertain clinical significance."
         Imp_Add(ctx, 10, t, "borderline", true, "There " . (borderParts.Length() > 1 ? "are" : "is") . " " . Util_LowerFirst(StrReplace(t, "Borderline abnormalities", borderParts.Length() > 1 ? "borderline abnormalities" : "a borderline abnormality")))
