@@ -1,0 +1,56 @@
+﻿=== SUMMARY ===
+The right sural nerve showed no response. The left sural nerve showed no response. The right superficial peroneal nerve showed no response. All remaining sensory responses were normal.
+The right peroneal motor nerve at the EDB showed low amplitude and slowed conduction velocity. The right tibial motor nerve showed prolonged latency and low amplitude. The left peroneal motor nerve at the EDB showed low amplitude and slowed conduction velocity. The right tibial F-wave latency was prolonged.
+The right TA showed increased motor unit amplitudes and durations. The right Gastrocnemius showed abnormal spontaneous activity and increased motor unit amplitudes and durations. The right AH showed abnormal spontaneous activity, reduced recruitment, and increased motor unit amplitudes and durations. The left TA showed increased motor unit amplitudes and durations. The left AH showed abnormal spontaneous activity and increased motor unit amplitudes and durations. All remaining muscles tested showed normal insertional activity, no abnormal spontaneous activity, normal motor unit amplitudes and durations, and normal recruitment patterns.
+
+=== IMPRESSION ===
+This is an abnormal electrodiagnostic study of the right upper, right lower, and left lower extremities which shows evidence of a moderate, length-dependent, axonal, sensorimotor, large-fiber polyneuropathy.
+
+=== NOTES ===
+Age: 68   Sex: M   BMI group: unknown (using high)   Normals: AANEM   Indication: polyneuropathy
+Studies parsed: 5 sensory, 3 motor, 1 F-wave, 0 H-reflex, 7 muscles.
+
+NOTES
+  - The right median-ulnar sensory peak latency difference was not graded because the two recording distances differ (13 vs 11 cm).
+
+ABNORMALITIES ATTRIBUTED TO
+  right sural nerve -> PN
+  left sural nerve -> PN
+  right superficial peroneal nerve -> PN
+  right peroneal motor nerve at the EDB -> PN
+  right tibial motor nerve -> PN
+  left peroneal motor nerve at the EDB -> PN
+  right tibial F-wave -> PN
+  right TA -> PN
+  right Gastrocnemius -> PN
+  right AH -> PN
+  left TA -> PN
+  left AH -> PN
+
+=== MEASUREMENTS ===
+ABNORMAL    right sural nerve                           Response                                          NR                          [no response]
+ABNORMAL    left sural nerve                            Response                                          NR                          [no response]
+ABNORMAL    right superficial peroneal nerve            Response                                          NR                          [no response]
+normal      right median sensory nerve                  Peak latency                                      3.5 ms      <= 3.71 ms    AANEM 2016  [4 ms at 14 cm, scaled to 13 cm]
+normal      right median sensory nerve                  Amplitude                                         12 uV       >= 7 uV       AANEM 2016  [age 50-79, BMI >=24]
+normal      right median sensory nerve                  Conduction velocity                               46 m/s      >= 43 m/s     AANEM 2016
+normal      right ulnar sensory nerve                   Peak latency                                      3 ms        <= 3.14 ms    AANEM 2016  [4 ms at 14 cm, scaled to 11 cm]
+normal      right ulnar sensory nerve                   Amplitude                                         9 uV        >= 5 uV       AANEM 2016  [age 50-79, BMI >=24]
+normal      right ulnar sensory nerve                   Conduction velocity                               47 m/s      >= 45 m/s     AANEM 2016
+normal      right peroneal motor nerve at the EDB       Distal latency (Ankle)                            6 ms        <= 6.5 ms     AANEM 2016
+ABNORMAL    right peroneal motor nerve at the EDB       Amplitude (Ankle)                                 0.4 mV      >= 1.1 mV     AANEM 2016
+ABNORMAL    right peroneal motor nerve at the EDB       CV below the fibular head                         36 m/s      >= 38 m/s     AANEM 2016
+normal      right peroneal motor nerve at the EDB       Amplitude drop below the fibular head             0 %         <= 32 %       AANEM 2016  [duration change 3%]
+ABNORMAL    right peroneal motor nerve at the EDB       CV across the fibular head                        37 m/s      >= 42 m/s     AANEM 2016
+normal      right peroneal motor nerve at the EDB       Amplitude drop across the fibular head            0 %         <= 25 %       AANEM 2016  [duration change 2%]
+normal      right peroneal motor nerve at the EDB       CV drop across the fibular head                   -1 m/s      <= 6 m/s      AANEM 2016  [-3% (limit 12%)]
+BORDERLINE  right tibial motor nerve                    Distal latency (Ankle)                            6.4 ms      <= 6.1 ms     AANEM 2016
+ABNORMAL    right tibial motor nerve                    Amplitude (Ankle)                                 0.9 mV      >= 1.1 mV     AANEM 2016
+normal      left peroneal motor nerve at the EDB        Distal latency (Ankle)                            5.9 ms      <= 6.5 ms     AANEM 2016
+ABNORMAL    left peroneal motor nerve at the EDB        Amplitude (Ankle)                                 0.5 mV      >= 1.1 mV     AANEM 2016
+BORDERLINE  left peroneal motor nerve at the EDB        CV below the fibular head                         37 m/s      >= 38 m/s     AANEM 2016
+normal      left peroneal motor nerve at the EDB        Amplitude drop below the fibular head             0 %         <= 32 %       AANEM 2016  [duration change 3%]
+ABNORMAL    left peroneal motor nerve at the EDB        CV across the fibular head                        38 m/s      >= 42 m/s     AANEM 2016
+normal      left peroneal motor nerve at the EDB        Amplitude drop across the fibular head            0 %         <= 25 %       AANEM 2016  [duration change 2%]
+normal      left peroneal motor nerve at the EDB        CV drop across the fibular head                   -1 m/s      <= 6 m/s      AANEM 2016  [-3% (limit 12%)]
+ABNORMAL    right tibial                                F-wave minimal latency                            60.2 ms     <= 56 ms      Preston & Shapiro

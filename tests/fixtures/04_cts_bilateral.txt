@@ -1,0 +1,68 @@
+  
+Ascension Seton Neurology
+1600 W. 38th Street, Ste 308
+Austin, Texas 78731
+512.324.3540
+
+EMG Report
+
+  
+Full Name:	Test Patient	Gender:	Female
+MR #:	000000	Date of Birth:	1/1/1960
+Visit Date:	1/2/2026 9:00 AM
+Age:	52 Years
+Examining Physician:	Andrew Collins
+Referring Physician:	Andrew Collins
+History and Exam: Ms. Test is a 52 year old woman with bilateral hand numbness. EDX is performed for evaluation of carpal tunnel syndrome.
+ 
+Summary: 
+
+Impression: 
+
+
+__________________________________
+Andrew Collins, M.D.
+
+ 
+  
+Motor Nerve Conduction Study 
+  
+Nerve / Sites	Muscle	Lat	Ref.	Amp	Ref.	Rel Amp	Dur.	Segments	Distance	Lat Diff	CV	Ref.	Temp.
+		ms	ms	mV	mV	%	ms		mm	ms	m/s	m/s	°C
+R Median - APB
+   Wrist	APB	5.2	≤4.4	6.8	≥4.0		6.5	Wrist - APB	70				32.5
+   Elbow	APB	9.4		6.5		95.6	6.8	Elbow - Wrist	220		52	≥49	32.5
+L Median - APB
+   Wrist	APB	6.4	≤4.4	2.1	≥4.0		6.5	Wrist - APB	70				32.5
+   Elbow	APB	10.6		2.0		95.2	6.8	Elbow - Wrist	220		50	≥49	32.5
+R Ulnar - ADM
+   Wrist	ADM	2.8	≤4.4	10.1	≥4.0		6.2	Wrist - ADM	70				32.5
+   B.Elbow	ADM	6.4		9.6		95.0	6.4	B.Elbow - Wrist	200		60	≥49	32.5
+   A.Elbow	ADM	8.2		9.4		97.9	6.5	A.Elbow - B.Elbow	100		58	≥49	32.5
+L Ulnar - ADM
+   Wrist	ADM	2.9	≤4.4	9.8	≥4.0		6.2	Wrist - ADM	70				32.5
+   B.Elbow	ADM	6.5		9.3		94.9	6.4	B.Elbow - Wrist	200		61	≥49	32.5
+   A.Elbow	ADM	8.3		9.1		97.8	6.5	A.Elbow - B.Elbow	100		57	≥49	32.5
+  
+Sensory Nerve Conduction Study 
+  
+Nerve / Sites	Rec. Site	Peak Lat	Ref.	Amp	Ref.	Segments	Distance	CV	Ref.	Temp.
+		ms	ms	µV	µV		mm	m/s	m/s	°C
+R Median - Dig II (Antidromic)
+   Wrist	Index	4.6	≤3.5	15.2	≥10	Wrist - Index	130	36	≥48	32.5
+L Median - Dig II (Antidromic)
+   Wrist	Index	NR	≤3.5	NR	≥10	Wrist - Index	130	NR	≥48	32.5
+R Ulnar - Dig V (Antidromic)
+   Wrist	Dig V	2.8	≤3.5	24	≥10	Wrist - Dig V	110	55	≥48	32.5
+L Ulnar - Dig V (Antidromic)
+   Wrist	Dig V	2.9	≤3.5	22	≥10	Wrist - Dig V	110	54	≥48	32.5
+  
+EMG Summary Table	
+	Insert	Spontaneous	Vol Act	MUAP
+Muscle	Act	Fib	PSW	Fasc	Other	Effort	Recruit	Amp	Dur.	PPP
+R. Abductor pollicis brevis	Norm	None	None	None	None	Max	Nml	Norm	Norm	Norm
+L. Abductor pollicis brevis	Incr	2+	2+	None	None	Max	Decr	1+	1+	Norm
+L. First dorsal interosseous	Norm	None	None	None	None	Max	Nml	Norm	Norm	Norm
+L. Pronator teres	Norm	None	None	None	None	Max	Nml	Norm	Norm	Norm
+L. Triceps	Norm	None	None	None	None	Max	Nml	Norm	Norm	Norm
+  

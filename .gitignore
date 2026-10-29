@@ -1,0 +1,6 @@
+uploads/
+assets/
+agent-tools/
+terminals/
+tests/output/
+*.bak

@@ -1,0 +1,38 @@
+﻿=== SUMMARY ===
+All sensory and motor responses were normal.
+The right Deltoid showed increased insertional activity, abnormal spontaneous activity, early recruitment, and decreased motor unit amplitudes and durations. The right Biceps showed abnormal spontaneous activity, early recruitment, and decreased motor unit amplitudes and durations. The right VL showed early recruitment and decreased motor unit amplitudes and durations. The right Iliopsoas showed abnormal spontaneous activity, early recruitment, and decreased motor unit amplitudes and durations. The right Thoracic Paraspinals showed abnormal spontaneous activity. All remaining muscles tested showed normal insertional activity, no abnormal spontaneous activity, normal motor unit amplitudes and durations, and normal recruitment patterns.
+
+=== IMPRESSION ===
+This is an abnormal electrodiagnostic study of the right upper and right lower extremities which shows evidence of a proximal, irritable myopathy. In this clinical context, this may be consistent with an inflammatory or necrotizing myopathy.
+
+=== NOTES ===
+Age: 58   Sex: F   BMI group: unknown (using high)   Normals: AANEM   Indication: myopathy
+Studies parsed: 2 sensory, 3 motor, 0 F-wave, 0 H-reflex, 7 muscles.
+
+ABNORMALITIES ATTRIBUTED TO
+  right Deltoid -> myopathy
+  right Biceps -> myopathy
+  right VL -> myopathy
+  right Iliopsoas -> myopathy
+  right Thoracic Paraspinals -> myopathy
+
+=== MEASUREMENTS ===
+normal      right median sensory nerve                  Peak latency                                      3.1 ms      <= 3.71 ms    AANEM 2016  [4 ms at 14 cm, scaled to 13 cm]
+normal      right median sensory nerve                  Amplitude                                         35 uV       >= 7 uV       AANEM 2016  [age 50-79, BMI >=24]
+normal      right median sensory nerve                  Conduction velocity                               53 m/s      >= 43 m/s     AANEM 2016
+normal      right sural nerve                           Peak latency                                      3.8 ms      <= 4.5 ms     AANEM 2016
+normal      right sural nerve                           Amplitude                                         12 uV       >= 4 uV       AANEM 2016
+normal      right sural nerve                           Conduction velocity                               45 m/s      >= 40 m/s     AANEM 2016
+normal      right median motor nerve                    Distal latency (Wrist)                            3.6 ms      <= 4.4 ms     AANEM 2016  [reference distance 8 cm; study 7 cm]
+normal      right median motor nerve                    Amplitude (Wrist)                                 8 mV        >= 4.2 mV     AANEM 2016
+normal      right median motor nerve                    CV in the forearm                                 55 m/s      >= 51 m/s     AANEM 2016
+normal      right median motor nerve                    Amplitude drop in the forearm                     5 %         <= 30 %       AANEM 2016  [duration change 5%]
+normal      right peroneal motor nerve at the EDB       Distal latency (Ankle)                            4.8 ms      <= 6.5 ms     AANEM 2016
+normal      right peroneal motor nerve at the EDB       Amplitude (Ankle)                                 3.9 mV      >= 1.1 mV     AANEM 2016
+normal      right peroneal motor nerve at the EDB       CV below the fibular head                         45 m/s      >= 38 m/s     AANEM 2016
+normal      right peroneal motor nerve at the EDB       Amplitude drop below the fibular head             5.1 %       <= 32 %       AANEM 2016  [duration change 3%]
+normal      right peroneal motor nerve at the EDB       CV across the fibular head                        46 m/s      >= 42 m/s     AANEM 2016
+normal      right peroneal motor nerve at the EDB       Amplitude drop across the fibular head            2.7 %       <= 25 %       AANEM 2016  [duration change 2%]
+normal      right peroneal motor nerve at the EDB       CV drop across the fibular head                   -1 m/s      <= 6 m/s      AANEM 2016  [-2% (limit 12%)]
+normal      right tibial motor nerve                    Distal latency (Ankle)                            4.5 ms      <= 6.1 ms     AANEM 2016
+normal      right tibial motor nerve                    Amplitude (Ankle)                                 9 mV        >= 5.3 mV     AANEM 2016

@@ -1,0 +1,45 @@
+﻿=== SUMMARY ===
+All sensory and motor responses were normal. The left tibial F-wave latency was prolonged. All remaining F-wave latencies were normal. The left H-reflex latency was prolonged relative to the right. All remaining H-reflex latencies were normal.
+The left Gastrocnemius showed abnormal spontaneous activity. The left Gluteus Maximus showed abnormal spontaneous activity, reduced recruitment, and increased motor unit amplitudes and durations. The left Lumbar Paraspinals showed abnormal spontaneous activity. All remaining muscles tested showed normal insertional activity, no abnormal spontaneous activity, normal motor unit amplitudes and durations, and normal recruitment patterns.
+
+=== IMPRESSION ===
+This is an abnormal electrodiagnostic study of the bilateral lower extremities which shows evidence of a chronic, left lumbosacral radiculopathy of the S1 myotome, with active denervation.
+
+=== NOTES ===
+Age: 50   Sex: F   BMI group: unknown (using high)   Normals: AANEM   Indication: S1 radiculopathy
+Studies parsed: 2 sensory, 2 motor, 3 F-wave, 2 H-reflex, 8 muscles.
+
+NOTES
+  - Absent right peroneal F-waves were not graded (peroneal F-waves are frequently absent in normal subjects).
+  - "Lt. Gastrocnemious" was matched to Gastrocnemius (medial head) (abbreviation/typo).
+
+ABNORMALITIES ATTRIBUTED TO
+  left tibial F-wave -> radic
+  left tibial H-reflex -> radic
+  left Gastrocnemius -> radic
+  left Gluteus Maximus -> radic
+  left Lumbar Paraspinals -> radic
+
+=== MEASUREMENTS ===
+normal      left sural nerve                            Peak latency                                      3.9 ms      <= 4.5 ms     AANEM 2016
+normal      left sural nerve                            Amplitude                                         9.5 uV      >= 4 uV       AANEM 2016
+normal      left sural nerve                            Conduction velocity                               45 m/s      >= 40 m/s     AANEM 2016
+normal      right sural nerve                           Peak latency                                      3.8 ms      <= 4.5 ms     AANEM 2016
+normal      right sural nerve                           Amplitude                                         10.1 uV     >= 4 uV       AANEM 2016
+normal      right sural nerve                           Conduction velocity                               47 m/s      >= 40 m/s     AANEM 2016
+normal      left peroneal motor nerve at the EDB        Distal latency (Ankle)                            4.9 ms      <= 6.5 ms     AANEM 2016
+normal      left peroneal motor nerve at the EDB        Amplitude (Ankle)                                 4.2 mV      >= 1.1 mV     AANEM 2016
+normal      left peroneal motor nerve at the EDB        CV below the fibular head                         45 m/s      >= 38 m/s     AANEM 2016
+normal      left peroneal motor nerve at the EDB        Amplitude drop below the fibular head             4.8 %       <= 32 %       AANEM 2016  [duration change 3%]
+normal      left peroneal motor nerve at the EDB        CV across the fibular head                        47 m/s      >= 42 m/s     AANEM 2016
+normal      left peroneal motor nerve at the EDB        Amplitude drop across the fibular head            2.5 %       <= 25 %       AANEM 2016  [duration change 2%]
+normal      left peroneal motor nerve at the EDB        CV drop across the fibular head                   -2 m/s      <= 6 m/s      AANEM 2016  [-4% (limit 12%)]
+normal      left tibial motor nerve                     Distal latency (Ankle)                            4.8 ms      <= 6.1 ms     AANEM 2016
+normal      left tibial motor nerve                     Amplitude (Ankle)                                 7.5 mV      >= 5.3 mV     AANEM 2016
+normal      right tibial                                F-wave minimal latency                            52.1 ms     <= 56 ms      Preston & Shapiro
+BORDERLINE  left tibial                                 F-wave minimal latency                            58 ms       <= 56 ms      Preston & Shapiro
+ABNORMAL    left tibial                                 Side-to-side difference                           5.9 ms      <= 4 ms       Preston & Shapiro
+not graded  right peroneal                              F-wave minimal latency                            NR                          [not graded]
+normal      right tibial                                H-reflex latency                                  30.2 ms     <= 34 ms      Preston & Shapiro
+normal      left tibial                                 H-reflex latency                                  33.9 ms     <= 34 ms      Preston & Shapiro
+ABNORMAL    left tibial                                 Side-to-side difference                           3.7 ms      <= 1.5 ms     Preston & Shapiro

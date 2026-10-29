@@ -1,0 +1,38 @@
+﻿=== SUMMARY ===
+The left ulnar sensory nerve showed a low amplitude. All remaining sensory responses were normal.
+The left ulnar motor nerve at the ADM showed slowed conduction velocity across the elbow and a conduction block across the elbow. All remaining motor responses were normal.
+All muscles tested showed normal insertional activity, no abnormal spontaneous activity, normal motor unit amplitudes and durations, and normal recruitment patterns.
+
+=== IMPRESSION ===
+This is an abnormal electrodiagnostic study of the left upper extremity which shows evidence of a left, moderate ulnar neuropathy at the elbow, demyelinating. In this clinical context, this is consistent with a left, moderate cubital tunnel syndrome.
+
+=== NOTES ===
+Age: 61   Sex: M   BMI group: unknown (using high)   Normals: AANEM   Indication: ulnar neuropathy
+Studies parsed: 2 sensory, 2 motor, 0 F-wave, 0 H-reflex, 4 muscles.
+
+NOTES
+  - The left median-ulnar sensory peak latency difference was not graded because the two recording distances differ (13 vs 11 cm).
+
+ABNORMALITIES ATTRIBUTED TO
+  left ulnar sensory nerve -> UNE
+  left ulnar motor nerve at the ADM -> UNE
+
+=== MEASUREMENTS ===
+normal      left median sensory nerve                   Peak latency                                      3.3 ms      <= 3.71 ms    AANEM 2016  [4 ms at 14 cm, scaled to 13 cm]
+normal      left median sensory nerve                   Amplitude                                         25 uV       >= 7 uV       AANEM 2016  [age 50-79, BMI >=24]
+normal      left median sensory nerve                   Conduction velocity                               52 m/s      >= 43 m/s     AANEM 2016
+normal      left ulnar sensory nerve                    Peak latency                                      3 ms        <= 3.14 ms    AANEM 2016  [4 ms at 14 cm, scaled to 11 cm]
+ABNORMAL    left ulnar sensory nerve                    Amplitude                                         3.8 uV      >= 5 uV       AANEM 2016  [age 50-79, BMI >=24]
+normal      left ulnar sensory nerve                    Conduction velocity                               50 m/s      >= 45 m/s     AANEM 2016
+normal      left median motor nerve                     Distal latency (Wrist)                            3.6 ms      <= 4.7 ms     AANEM 2016  [reference distance 8 cm; study 7 cm]
+normal      left median motor nerve                     Amplitude (Wrist)                                 8.1 mV      >= 3.8 mV     AANEM 2016
+normal      left median motor nerve                     CV in the forearm                                 54 m/s      >= 47 m/s     AANEM 2016
+normal      left median motor nerve                     Amplitude drop in the forearm                     4.9 %       <= 30 %       AANEM 2016  [duration change 5%]
+normal      left ulnar motor nerve at the ADM           Distal latency (Wrist)                            3.1 ms      <= 3.7 ms     AANEM 2016  [reference distance 8 cm; study 7 cm]
+normal      left ulnar motor nerve at the ADM           Amplitude (Wrist)                                 8.5 mV      >= 7.9 mV     AANEM 2016
+normal      left ulnar motor nerve at the ADM           CV below the elbow                                57 m/s      >= 52 m/s     AANEM 2016
+normal      left ulnar motor nerve at the ADM           Amplitude drop below the elbow                    4.7 %       <= 30 %       AANEM 2016  [duration change 3%]
+ABNORMAL    left ulnar motor nerve at the ADM           CV across the elbow                               32 m/s      >= 43 m/s     AANEM 2016
+ABNORMAL    left ulnar motor nerve at the ADM           Amplitude drop across the elbow                   27.2 %      <= 20 %       AANEM 2016  [duration change 2%]
+ABNORMAL    left ulnar motor nerve at the ADM           CV drop across the elbow                          25 m/s      <= 15 m/s     AANEM 2016  [44% (limit 23%)]
+normal      Comparison studies                          Left median-ulnar motor distal latency difference 0.5 ms      <= 1.7 ms     AANEM 2016

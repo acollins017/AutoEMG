@@ -1,0 +1,58 @@
+  
+Ascension Seton Neurology
+1600 W. 38th Street, Ste 308
+Austin, Texas 78731
+512.324.3540
+
+EMG Report
+
+  
+Full Name:	Test Patient	Gender:	Male
+MR #:	000000	Date of Birth:	1/1/1960
+Visit Date:	1/2/2026 9:00 AM
+Age:	45 Years
+Examining Physician:	Andrew Collins
+Referring Physician:	Andrew Collins
+History and Exam: Mr. Test is a 45 year old man with left foot drop after crossing his legs. EDX is performed for evaluation of foot drop.
+ 
+Summary: 
+
+Impression: 
+
+
+__________________________________
+Andrew Collins, M.D.
+
+ 
+  
+Motor Nerve Conduction Study 
+  
+Nerve / Sites	Muscle	Lat	Ref.	Amp	Ref.	Rel Amp	Dur.	Segments	Distance	Lat Diff	CV	Ref.	Temp.
+		ms	ms	mV	mV	%	ms		mm	ms	m/s	m/s	°C
+L Peroneal - EDB
+   Ankle	EDB	5.0	≤4.4	3.0	≥4.0		6.1	Ankle - EDB	80				32.5
+   B. Fib Head	EDB	12.0		2.8		93.3	6.3	B. Fib Head - Ankle	330		45	≥49	32.5
+   A. Fib Head	EDB	13.9		1.2		42.9	6.4	A. Fib Head - B. Fib Head	80		30	≥49	32.5
+L Tibial - AH
+   Ankle	AH	4.6	≤4.4	8.2	≥4.0		5.0	Ankle - AH	80				32.5
+  
+Sensory Nerve Conduction Study 
+  
+Nerve / Sites	Rec. Site	Peak Lat	Ref.	Amp	Ref.	Segments	Distance	CV	Ref.	Temp.
+		ms	ms	µV	µV		mm	m/s	m/s	°C
+L Superficial peroneal - Ankle
+   Lat leg	Ankle	3.9	≤3.5	3.0	≥10	Lat leg - Ankle	140	45	≥48	32.5
+L Sural - (Antidromic)
+   Calf	Ankle	3.6	≤3.5	11	≥10	Calf - Ankle	140	46	≥48	32.5
+  
+EMG Summary Table	
+	Insert	Spontaneous	Vol Act	MUAP
+Muscle	Act	Fib	PSW	Fasc	Other	Effort	Recruit	Amp	Dur.	PPP
+L. Tibialis anterior	Norm	2+	2+	None	None	Max	Decr	Norm	Norm	Norm
+L. Peroneus longus	Norm	1+	1+	None	None	Max	Decr	Norm	Norm	Norm
+L. Biceps femoris (short head)	Norm	None	None	None	None	Max	Nml	Norm	Norm	Norm
+L. Tibialis posterior	Norm	None	None	None	None	Max	Nml	Norm	Norm	Norm
+L. Gluteus medius	Norm	None	None	None	None	Max	Nml	Norm	Norm	Norm
+L. Gastrocnemius (Medial head)	Norm	None	None	None	None	Max	Nml	Norm	Norm	Norm
+L. Lumbar paraspinals (low)	Norm	None	None	None	None					
+  

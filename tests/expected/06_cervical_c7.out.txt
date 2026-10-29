@@ -1,0 +1,43 @@
+﻿=== SUMMARY ===
+All sensory and motor responses were normal.
+The right Triceps showed increased insertional activity, abnormal spontaneous activity, reduced recruitment, and increased motor unit amplitudes and durations. The right FCR showed abnormal spontaneous activity and reduced recruitment. The right PT showed increased motor unit amplitudes and durations. The right EDC showed reduced recruitment and increased motor unit amplitudes and durations. The right Cervical Paraspinals showed abnormal spontaneous activity. All remaining muscles tested showed normal insertional activity, no abnormal spontaneous activity, normal motor unit amplitudes and durations, and normal recruitment patterns.
+
+=== IMPRESSION ===
+This is an abnormal electrodiagnostic study of the right upper extremity which shows evidence of a chronic, right cervical radiculopathy of the C7 myotome, with active denervation.
+
+=== NOTES ===
+Age: 55   Sex: M   BMI group: unknown (using high)   Normals: AANEM   Indication: cervical radiculopathy
+Studies parsed: 3 sensory, 2 motor, 0 F-wave, 0 H-reflex, 9 muscles.
+
+NOTES
+  - The right median-ulnar sensory peak latency difference was not graded because the two recording distances differ (13 vs 11 cm).
+
+ABNORMALITIES ATTRIBUTED TO
+  right Triceps -> radic
+  right FCR -> radic
+  right PT -> radic
+  right EDC -> radic
+  right Cervical Paraspinals -> radic
+
+=== MEASUREMENTS ===
+normal      right median sensory nerve                  Peak latency                                      3.2 ms      <= 3.71 ms    AANEM 2016  [4 ms at 14 cm, scaled to 13 cm]
+normal      right median sensory nerve                  Amplitude                                         30 uV       >= 7 uV       AANEM 2016  [age 50-79, BMI >=24]
+normal      right median sensory nerve                  Conduction velocity                               52 m/s      >= 43 m/s     AANEM 2016
+normal      right ulnar sensory nerve                   Peak latency                                      2.7 ms      <= 3.14 ms    AANEM 2016  [4 ms at 14 cm, scaled to 11 cm]
+normal      right ulnar sensory nerve                   Amplitude                                         26 uV       >= 5 uV       AANEM 2016  [age 50-79, BMI >=24]
+normal      right ulnar sensory nerve                   Conduction velocity                               56 m/s      >= 45 m/s     AANEM 2016
+normal      right radial sensory nerve                  Peak latency                                      2.2 ms      <= 2.8 ms     AANEM 2016
+normal      right radial sensory nerve                  Amplitude                                         24 uV       >= 7 uV       AANEM 2016
+normal      right radial sensory nerve                  Conduction velocity                               60 m/s      >= 50 m/s     AANEM 2016
+normal      right median motor nerve                    Distal latency (Wrist)                            3.7 ms      <= 4.7 ms     AANEM 2016  [reference distance 8 cm; study 7 cm]
+normal      right median motor nerve                    Amplitude (Wrist)                                 8.9 mV      >= 4.2 mV     AANEM 2016
+normal      right median motor nerve                    CV in the forearm                                 55 m/s      >= 47 m/s     AANEM 2016
+normal      right median motor nerve                    Amplitude drop in the forearm                     4.5 %       <= 30 %       AANEM 2016  [duration change 5%]
+normal      right ulnar motor nerve at the ADM          Distal latency (Wrist)                            2.8 ms      <= 3.7 ms     AANEM 2016  [reference distance 8 cm; study 7 cm]
+normal      right ulnar motor nerve at the ADM          Amplitude (Wrist)                                 10.2 mV     >= 7.9 mV     AANEM 2016
+normal      right ulnar motor nerve at the ADM          CV below the elbow                                60 m/s      >= 52 m/s     AANEM 2016
+normal      right ulnar motor nerve at the ADM          Amplitude drop below the elbow                    4.9 %       <= 30 %       AANEM 2016  [duration change 3%]
+normal      right ulnar motor nerve at the ADM          CV across the elbow                               58 m/s      >= 43 m/s     AANEM 2016
+normal      right ulnar motor nerve at the ADM          Amplitude drop across the elbow                   2.1 %       <= 20 %       AANEM 2016  [duration change 2%]
+normal      right ulnar motor nerve at the ADM          CV drop across the elbow                          2 m/s       <= 15 m/s     AANEM 2016  [3% (limit 23%)]
+normal      Comparison studies                          Right median-ulnar motor distal latency difference0.9 ms      <= 1.7 ms     AANEM 2016

@@ -1,0 +1,58 @@
+﻿=== SUMMARY ===
+The right median sensory nerve showed a prolonged latency and slow conduction velocity. The right sural nerve showed no response. All remaining sensory responses were normal.
+The right peroneal motor nerve at the EDB showed low amplitude. The right tibial motor nerve showed low amplitude. All remaining motor responses were normal.
+The right TA showed increased motor unit amplitudes and durations. The right Gastrocnemius showed increased insertional activity, abnormal spontaneous activity, reduced recruitment, and increased motor unit amplitudes and durations. The left TA showed increased insertional activity, abnormal spontaneous activity, reduced recruitment, and increased motor unit amplitudes and durations. The left Gastrocnemius showed increased insertional activity, abnormal spontaneous activity, reduced recruitment, and increased motor unit amplitudes and durations. All remaining muscles tested showed normal insertional activity, no abnormal spontaneous activity, normal motor unit amplitudes and durations, and normal recruitment patterns.
+
+=== IMPRESSION ===
+This is an abnormal electrodiagnostic study of the right upper, right lower, and left lower extremities which shows evidence of:
+1. A chronic, bilateral lumbosacral radiculopathy of the L5 and S1 myotomes, with active denervation.
+2. A mild, length-dependent, axonal, sensory, large-fiber polyneuropathy; incidental finding.
+3. A right, mild median neuropathy at the wrist, demyelinating. In this clinical context, this is consistent with a right, mild carpal tunnel syndrome.
+
+=== NOTES ===
+Age: 45   Sex: M   BMI group: unknown (using high)   Normals: AANEM   Indication: lumbosacral radiculopathy
+Studies parsed: 4 sensory, 4 motor, 0 F-wave, 0 H-reflex, 7 muscles.
+
+WARNINGS
+  * Recorded temperatures: upper limb as low as 23.3 C (AANEM: >32 C); lower limb as low as 23.4 C (AANEM: >31 C). Cool limbs prolong latencies and slow conduction velocities (about 0.2 ms and 1.5-2.5 m/s per degree).
+
+NOTES
+  - The right median-ulnar sensory peak latency difference was not graded because the two recording distances differ (13 vs 11 cm).
+
+ABNORMALITIES ATTRIBUTED TO
+  right median sensory nerve -> CTS
+  right sural nerve -> PN
+  right peroneal motor nerve at the EDB -> radic
+  right tibial motor nerve -> radic
+  right TA -> radic
+  right Gastrocnemius -> radic
+  left TA -> radic
+  left Gastrocnemius -> radic
+
+=== MEASUREMENTS ===
+ABNORMAL    right median sensory nerve                  Peak latency                                      4.9 ms      <= 3.71 ms    AANEM 2016  [4 ms at 14 cm, scaled to 13 cm]
+normal      right median sensory nerve                  Amplitude                                         17.3 uV     >= 11 uV      AANEM 2016  [age 19-49, BMI >=24]
+ABNORMAL    right median sensory nerve                  Conduction velocity                               35 m/s      >= 43 m/s     AANEM 2016
+normal      right ulnar sensory nerve                   Peak latency                                      2.9 ms      <= 3.14 ms    AANEM 2016  [4 ms at 14 cm, scaled to 11 cm]
+normal      right ulnar sensory nerve                   Amplitude                                         15.1 uV     >= 11 uV      AANEM 2016  [age 19-49, BMI >=24]
+normal      right ulnar sensory nerve                   Conduction velocity                               49 m/s      >= 45 m/s     AANEM 2016
+normal      right radial sensory nerve                  Peak latency                                      2.3 ms      <= 2.8 ms     AANEM 2016
+normal      right radial sensory nerve                  Amplitude                                         13.4 uV     >= 7 uV       AANEM 2016
+normal      right radial sensory nerve                  Conduction velocity                               60 m/s      >= 50 m/s     AANEM 2016
+ABNORMAL    right sural nerve                           Response                                          NR                          [no response]
+normal      right median motor nerve                    Distal latency (Wrist)                            4.2 ms      <= 4.6 ms     AANEM 2016  [reference distance 8 cm; study 7 cm]
+normal      right median motor nerve                    Amplitude (Wrist)                                 7.3 mV      >= 4.2 mV     AANEM 2016
+normal      right median motor nerve                    CV in the forearm                                 47 m/s      >= 47 m/s     AANEM 2016
+normal      right median motor nerve                    Amplitude drop in the forearm                     5.5 %       <= 30 %       AANEM 2016  [duration change 4%]
+normal      right ulnar motor nerve at the ADM          Distal latency (Wrist)                            2.7 ms      <= 3.7 ms     AANEM 2016  [reference distance 8 cm; study 7 cm]
+normal      right ulnar motor nerve at the ADM          Amplitude (Wrist)                                 8.8 mV      >= 7.9 mV     AANEM 2016
+normal      right ulnar motor nerve at the ADM          CV below the elbow                                54 m/s      >= 52 m/s     AANEM 2016
+normal      right ulnar motor nerve at the ADM          Amplitude drop below the elbow                    18.2 %      <= 30 %       AANEM 2016  [duration change 3%]
+normal      right ulnar motor nerve at the ADM          CV across the elbow                               69 m/s      >= 43 m/s     AANEM 2016
+normal      right ulnar motor nerve at the ADM          Amplitude drop across the elbow                   -16.7 %     <= 20 %       AANEM 2016  [duration change 0%]
+normal      right ulnar motor nerve at the ADM          CV drop across the elbow                          -15 m/s     <= 15 m/s     AANEM 2016  [-28% (limit 23%)]
+normal      right peroneal motor nerve at the EDB       Distal latency (Ankle)                            5.7 ms      <= 6.5 ms     AANEM 2016
+ABNORMAL    right peroneal motor nerve at the EDB       Amplitude (Ankle)                                 0.5 mV      >= 1.1 mV     AANEM 2016
+normal      right tibial motor nerve                    Distal latency (Ankle)                            5.1 ms      <= 6.1 ms     AANEM 2016
+ABNORMAL    right tibial motor nerve                    Amplitude (Ankle)                                 1.1 mV      >= 5.3 mV     AANEM 2016
+ABNORMAL    Comparison studies                          Right median-ulnar motor distal latency difference1.5 ms      <= 1.4 ms     AANEM 2016

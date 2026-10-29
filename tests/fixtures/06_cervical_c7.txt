@@ -1,0 +1,63 @@
+  
+Ascension Seton Neurology
+1600 W. 38th Street, Ste 308
+Austin, Texas 78731
+512.324.3540
+
+EMG Report
+
+  
+Full Name:	Test Patient	Gender:	Male
+MR #:	000000	Date of Birth:	1/1/1960
+Visit Date:	1/2/2026 9:00 AM
+Age:	55 Years
+Examining Physician:	Andrew Collins
+Referring Physician:	Andrew Collins
+History and Exam: Mr. Test is a 55 year old man with neck pain radiating into the right arm. EDX is performed for evaluation of cervical radiculopathy.
+ 
+Summary: 
+
+Impression: 
+
+
+__________________________________
+Andrew Collins, M.D.
+
+ 
+  
+Motor Nerve Conduction Study 
+  
+Nerve / Sites	Muscle	Lat	Ref.	Amp	Ref.	Rel Amp	Dur.	Segments	Distance	Lat Diff	CV	Ref.	Temp.
+		ms	ms	mV	mV	%	ms		mm	ms	m/s	m/s	°C
+R Median - APB
+   Wrist	APB	3.7	≤4.4	8.9	≥4.0		6.5	Wrist - APB	70				32.5
+   Elbow	APB	7.9		8.5		95.5	6.8	Elbow - Wrist	220		55	≥49	32.5
+R Ulnar - ADM
+   Wrist	ADM	2.8	≤4.4	10.2	≥4.0		6.2	Wrist - ADM	70				32.5
+   B.Elbow	ADM	6.4		9.7		95.1	6.4	B.Elbow - Wrist	200		60	≥49	32.5
+   A.Elbow	ADM	8.2		9.5		97.9	6.5	A.Elbow - B.Elbow	100		58	≥49	32.5
+  
+Sensory Nerve Conduction Study 
+  
+Nerve / Sites	Rec. Site	Peak Lat	Ref.	Amp	Ref.	Segments	Distance	CV	Ref.	Temp.
+		ms	ms	µV	µV		mm	m/s	m/s	°C
+R Median - Dig II (Antidromic)
+   Wrist	Index	3.2	≤3.5	30	≥10	Wrist - Index	130	52	≥48	32.5
+R Ulnar - Dig V (Antidromic)
+   Wrist	Dig V	2.7	≤3.5	26	≥10	Wrist - Dig V	110	56	≥48	32.5
+R Radial - Superficial (Antidromic)
+   Forearm	Wrist	2.2	≤3.5	24	≥10	Forearm - Wrist	100	60	≥48	32.5
+  
+EMG Summary Table	
+	Insert	Spontaneous	Vol Act	MUAP
+Muscle	Act	Fib	PSW	Fasc	Other	Effort	Recruit	Amp	Dur.	PPP
+R. Deltoid	Norm	None	None	None	None	Max	Nml	Norm	Norm	Norm
+R. Biceps brachii	Norm	None	None	None	None	Max	Nml	Norm	Norm	Norm
+R. Triceps brachii	Incr	2+	2+	None	None	Max	Decr	1+	1+	1+
+R. Flexor carpi radialis	Norm	1+	1+	None	None	Max	Decr	Norm	Norm	Norm
+R. Pronator teres	Norm	None	None	None	None	Max	Nml	1+	1+	Norm
+R. Extensor digitorum communis	Norm	None	None	None	None	Max	Decr	1+	1+	Norm
+R. First dorsal interosseous	Norm	None	None	None	None	Max	Nml	Norm	Norm	Norm
+R. Abductor pollicis brevis	Norm	None	None	None	None	Max	Nml	Norm	Norm	Norm
+R. Cervical paraspinals (mid)	Norm	1+	1+	None	None					
+  

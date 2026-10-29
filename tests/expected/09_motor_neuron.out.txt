@@ -1,0 +1,58 @@
+﻿=== SUMMARY ===
+All sensory responses were normal.
+The right median motor nerve showed low amplitude. The right peroneal motor nerve at the EDB showed low amplitude. All remaining motor responses were normal.
+The left Genioglossus showed abnormal spontaneous activity, fasciculation potentials, and increased motor unit amplitudes and durations. The right FDI showed increased insertional activity, abnormal spontaneous activity, fasciculation potentials, reduced recruitment, and increased motor unit amplitudes and durations. The right Biceps showed abnormal spontaneous activity, reduced recruitment, and increased motor unit amplitudes and durations. The right Triceps showed fasciculation potentials, reduced recruitment, and increased motor unit amplitudes and durations. The right Thoracic Paraspinals showed abnormal spontaneous activity. The right TA showed abnormal spontaneous activity, reduced recruitment, and increased motor unit amplitudes and durations. The right VL showed abnormal spontaneous activity, reduced recruitment, and increased motor unit amplitudes and durations. The right Gastrocnemius showed abnormal spontaneous activity and increased motor unit amplitudes and durations.
+
+=== IMPRESSION ===
+This is an abnormal electrodiagnostic study of the right upper and right lower extremities which shows evidence of active and chronic denervation/reinnervation in the bulbar, cervical, thoracic, and lumbosacral myotomes, with normal sensory responses. In this clinical context, these electrodiagnostic findings may be due to motor neuron disease or a polyradiculopathy.
+
+=== NOTES ===
+Age: 66   Sex: M   BMI group: unknown (using high)   Normals: AANEM   Indication: motor neuron disease
+Studies parsed: 3 sensory, 4 motor, 0 F-wave, 0 H-reflex, 8 muscles.
+
+NOTES
+  - The right median-ulnar sensory peak latency difference was not graded because the two recording distances differ (13 vs 11 cm).
+
+ABNORMALITIES ATTRIBUTED TO
+  right median motor nerve -> MND
+  right peroneal motor nerve at the EDB -> MND
+  left Genioglossus -> MND
+  right FDI -> MND
+  right Biceps -> MND
+  right Triceps -> MND
+  right Thoracic Paraspinals -> MND
+  right TA -> MND
+  right VL -> MND
+  right Gastrocnemius -> MND
+
+=== MEASUREMENTS ===
+normal      right median sensory nerve                  Peak latency                                      3.3 ms      <= 3.71 ms    AANEM 2016  [4 ms at 14 cm, scaled to 13 cm]
+normal      right median sensory nerve                  Amplitude                                         22 uV       >= 7 uV       AANEM 2016  [age 50-79, BMI >=24]
+normal      right median sensory nerve                  Conduction velocity                               51 m/s      >= 43 m/s     AANEM 2016
+normal      right ulnar sensory nerve                   Peak latency                                      2.9 ms      <= 3.14 ms    AANEM 2016  [4 ms at 14 cm, scaled to 11 cm]
+normal      right ulnar sensory nerve                   Amplitude                                         18 uV       >= 5 uV       AANEM 2016  [age 50-79, BMI >=24]
+normal      right ulnar sensory nerve                   Conduction velocity                               53 m/s      >= 45 m/s     AANEM 2016
+normal      right sural nerve                           Peak latency                                      4 ms        <= 4.5 ms     AANEM 2016
+normal      right sural nerve                           Amplitude                                         9 uV        >= 4 uV       AANEM 2016
+normal      right sural nerve                           Conduction velocity                               44 m/s      >= 40 m/s     AANEM 2016
+normal      right median motor nerve                    Distal latency (Wrist)                            3.9 ms      <= 4.7 ms     AANEM 2016  [reference distance 8 cm; study 7 cm]
+ABNORMAL    right median motor nerve                    Amplitude (Wrist)                                 3 mV        >= 3.8 mV     AANEM 2016
+normal      right median motor nerve                    CV in the forearm                                 50 m/s      >= 47 m/s     AANEM 2016
+normal      right median motor nerve                    Amplitude drop in the forearm                     6.7 %       <= 30 %       AANEM 2016  [duration change 5%]
+normal      right ulnar motor nerve at the ADM          Distal latency (Wrist)                            3 ms        <= 3.7 ms     AANEM 2016  [reference distance 8 cm; study 7 cm]
+normal      right ulnar motor nerve at the ADM          Amplitude (Wrist)                                 8.2 mV      >= 7.9 mV     AANEM 2016
+normal      right ulnar motor nerve at the ADM          CV below the elbow                                56 m/s      >= 52 m/s     AANEM 2016
+normal      right ulnar motor nerve at the ADM          Amplitude drop below the elbow                    4.9 %       <= 30 %       AANEM 2016  [duration change 3%]
+normal      right ulnar motor nerve at the ADM          CV across the elbow                               55 m/s      >= 43 m/s     AANEM 2016
+normal      right ulnar motor nerve at the ADM          Amplitude drop across the elbow                   2.6 %       <= 20 %       AANEM 2016  [duration change 2%]
+normal      right ulnar motor nerve at the ADM          CV drop across the elbow                          1 m/s       <= 15 m/s     AANEM 2016  [2% (limit 23%)]
+normal      right peroneal motor nerve at the EDB       Distal latency (Ankle)                            5.1 ms      <= 6.5 ms     AANEM 2016
+ABNORMAL    right peroneal motor nerve at the EDB       Amplitude (Ankle)                                 0.8 mV      >= 1.1 mV     AANEM 2016
+normal      right peroneal motor nerve at the EDB       CV below the fibular head                         41 m/s      >= 38 m/s     AANEM 2016
+normal      right peroneal motor nerve at the EDB       Amplitude drop below the fibular head             0 %         <= 32 %       AANEM 2016  [duration change 3%]
+normal      right peroneal motor nerve at the EDB       CV across the fibular head                        43 m/s      >= 42 m/s     AANEM 2016
+normal      right peroneal motor nerve at the EDB       Amplitude drop across the fibular head            12.5 %      <= 25 %       AANEM 2016  [duration change 2%]
+normal      right peroneal motor nerve at the EDB       CV drop across the fibular head                   -2 m/s      <= 6 m/s      AANEM 2016  [-5% (limit 12%)]
+normal      right tibial motor nerve                    Distal latency (Ankle)                            5 ms        <= 6.1 ms     AANEM 2016
+normal      right tibial motor nerve                    Amplitude (Ankle)                                 6.1 mV      >= 1.1 mV     AANEM 2016
+normal      Comparison studies                          Right median-ulnar motor distal latency difference0.9 ms      <= 1.7 ms     AANEM 2016

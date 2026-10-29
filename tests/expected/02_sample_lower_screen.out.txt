@@ -1,0 +1,33 @@
+﻿=== SUMMARY ===
+All sensory and motor responses were normal.
+The left Gastrocnemius showed increased motor unit amplitudes and durations. All remaining muscles tested showed normal insertional activity, no abnormal spontaneous activity, normal motor unit amplitudes and durations, and normal recruitment patterns.
+
+=== IMPRESSION ===
+This is an abnormal electrodiagnostic study of the bilateral lower extremities which shows evidence of isolated, mild chronic neurogenic changes in the left Gastrocnemius, without active denervation. This is a nonspecific finding that does not meet electrodiagnostic criteria for a lumbosacral radiculopathy.
+
+=== NOTES ===
+Age: 49   Sex: ?   BMI group: unknown (using high)   Normals: AANEM
+Studies parsed: 1 sensory, 2 motor, 0 F-wave, 0 H-reflex, 8 muscles.
+
+WARNINGS
+  * Recorded temperatures: lower limb as low as 22.5 C (AANEM: >31 C). Cool limbs prolong latencies and slow conduction velocities (about 0.2 ms and 1.5-2.5 m/s per degree).
+
+NOTES
+  - Sex not found - sex-specific median motor limits were not applied.
+
+ABNORMALITIES ATTRIBUTED TO
+  left Gastrocnemius -> isolated
+
+=== MEASUREMENTS ===
+normal      left sural nerve                            Peak latency                                      3.5 ms      <= 4.5 ms     AANEM 2016
+normal      left sural nerve                            Amplitude                                         8.4 uV      >= 4 uV       AANEM 2016
+normal      left sural nerve                            Conduction velocity                               48 m/s      >= 40 m/s     AANEM 2016
+normal      left peroneal motor nerve at the EDB        Distal latency (Ankle)                            4.2 ms      <= 6.5 ms     AANEM 2016
+normal      left peroneal motor nerve at the EDB        Amplitude (Ankle)                                 4.1 mV      >= 1.1 mV     AANEM 2016
+normal      left peroneal motor nerve at the EDB        CV below the fibular head                         42 m/s      >= 38 m/s     AANEM 2016
+normal      left peroneal motor nerve at the EDB        Amplitude drop below the fibular head             0 %         <= 32 %       AANEM 2016  [duration change 27%]
+normal      left peroneal motor nerve at the EDB        CV across the fibular head                        45 m/s      >= 42 m/s     AANEM 2016
+normal      left peroneal motor nerve at the EDB        Amplitude drop across the fibular head            4.9 %       <= 25 %       AANEM 2016  [duration change 2%]
+normal      left peroneal motor nerve at the EDB        CV drop across the fibular head                   -3 m/s      <= 6 m/s      AANEM 2016  [-7% (limit 12%)]
+normal      left tibial motor nerve                     Distal latency (Ankle)                            4.1 ms      <= 6.1 ms     AANEM 2016
+normal      left tibial motor nerve                     Amplitude (Ankle)                                 7 mV        >= 5.3 mV     AANEM 2016

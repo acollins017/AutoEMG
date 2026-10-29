@@ -1,0 +1,5 @@
+*.ahk text eol=crlf
+*.sh text eol=lf
+*.md text eol=lf
+tests/fixtures/*.txt -text
+tests/expected/*.txt -text

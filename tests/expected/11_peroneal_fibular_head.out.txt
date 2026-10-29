@@ -1,0 +1,34 @@
+﻿=== SUMMARY ===
+The left superficial peroneal nerve showed a low amplitude. All remaining sensory responses were normal.
+The left peroneal motor nerve at the EDB showed slowed conduction velocity across the fibular head and a conduction block across the fibular head. All remaining motor responses were normal.
+The left TA showed abnormal spontaneous activity and reduced recruitment. The left Peroneus Longus showed abnormal spontaneous activity and reduced recruitment. All remaining muscles tested showed normal insertional activity, no abnormal spontaneous activity, normal motor unit amplitudes and durations, and normal recruitment patterns.
+
+=== IMPRESSION ===
+This is an abnormal electrodiagnostic study of the left lower extremity which shows evidence of a left, severe peroneal neuropathy at the fibular head, demyelinating and axonal.
+
+=== NOTES ===
+Age: 45   Sex: M   BMI group: unknown (using high)   Normals: AANEM   Indication: foot drop
+Studies parsed: 2 sensory, 2 motor, 0 F-wave, 0 H-reflex, 7 muscles.
+
+ABNORMALITIES ATTRIBUTED TO
+  left superficial peroneal nerve -> peroneal FH
+  left peroneal motor nerve at the EDB -> peroneal FH
+  left TA -> peroneal FH
+  left Peroneus Longus -> peroneal FH
+
+=== MEASUREMENTS ===
+normal      left superficial peroneal nerve             Peak latency                                      3.9 ms      <= 4.4 ms     Preston & Shapiro
+ABNORMAL    left superficial peroneal nerve             Amplitude                                         3 uV        >= 6 uV       Preston & Shapiro
+normal      left superficial peroneal nerve             Conduction velocity                               45 m/s      >= 40 m/s     Preston & Shapiro
+normal      left sural nerve                            Peak latency                                      3.6 ms      <= 4.5 ms     AANEM 2016
+normal      left sural nerve                            Amplitude                                         11 uV       >= 4 uV       AANEM 2016
+normal      left sural nerve                            Conduction velocity                               46 m/s      >= 40 m/s     AANEM 2016
+normal      left peroneal motor nerve at the EDB        Distal latency (Ankle)                            5 ms        <= 6.5 ms     AANEM 2016
+normal      left peroneal motor nerve at the EDB        Amplitude (Ankle)                                 3 mV        >= 1.1 mV     AANEM 2016
+normal      left peroneal motor nerve at the EDB        CV below the fibular head                         45 m/s      >= 38 m/s     AANEM 2016
+normal      left peroneal motor nerve at the EDB        Amplitude drop below the fibular head             6.7 %       <= 32 %       AANEM 2016  [duration change 3%]
+ABNORMAL    left peroneal motor nerve at the EDB        CV across the fibular head                        30 m/s      >= 42 m/s     AANEM 2016
+ABNORMAL    left peroneal motor nerve at the EDB        Amplitude drop across the fibular head            57.1 %      <= 25 %       AANEM 2016  [duration change 2%]
+ABNORMAL    left peroneal motor nerve at the EDB        CV drop across the fibular head                   15 m/s      <= 6 m/s      AANEM 2016  [33% (limit 12%)]
+normal      left tibial motor nerve                     Distal latency (Ankle)                            4.6 ms      <= 6.1 ms     AANEM 2016
+normal      left tibial motor nerve                     Amplitude (Ankle)                                 8.2 mV      >= 5.3 mV     AANEM 2016

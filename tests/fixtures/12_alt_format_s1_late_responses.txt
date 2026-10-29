@@ -1,0 +1,72 @@
+  
+Ascension Seton Neurology
+1600 W. 38th Street, Ste 308
+Austin, Texas 78731
+512.324.3540
+
+EMG Report
+
+  
+Full Name:	Test Patient	Gender:	Female
+MR #:	000000	Date of Birth:	1/1/1960
+Visit Date:	1/2/2026 9:00 AM
+Age:	50 Years
+Examining Physician:	Andrew Collins
+Referring Physician:	Andrew Collins
+History and Exam: Ms. Test is a 50 year old woman with left buttock and calf pain. EDX is performed for evaluation of S1 radiculopathy.
+ 
+Summary: 
+
+Impression: 
+
+
+__________________________________
+Andrew Collins, M.D.
+
+ 
+  
+Sensory Nerve Conduction Study
+  
+Nerve / Sites	Rec. Site	Onset Lat	Peak Lat	NP Amp	Distance	Peak Diff	Velocity	Temp.
+		ms	ms	µV	cm	ms	m/s	°C
+Left Sural Sensory
+   Calf	Ankle	3.1	3.9	9.5	14		45	32.0
+Right Sural Sensory
+   Calf	Ankle	3.0	3.8	10.1	14		47	32.0
+  
+Motor Nerve Conduction Study 
+  
+Nerve / Sites	Muscle	Lat	Ref.	Amp	Ref.	Rel Amp	Dur.	Segments	Distance	Lat Diff	CV	Ref.	Temp.
+		ms	ms	mV	mV	%	ms		mm	ms	m/s	m/s	°C
+L Peroneal - EDB
+   Ankle	EDB	4.9	≤4.4	4.2	≥4.0		6.1	Ankle - EDB	80				32.5
+   B. Fib Head	EDB	11.9		4.0		95.2	6.3	B. Fib Head - Ankle	330		45	≥49	32.5
+   A. Fib Head	EDB	13.8		3.9		97.5	6.4	A. Fib Head - B. Fib Head	80		47	≥49	32.5
+L Tibial - AH
+   Ankle	AH	4.8	≤4.4	7.5	≥4.0		5.0	Ankle - AH	80				32.5
+  
+F Wave Studies
+  
+Nerve	M-Lat	F-Lat	Ref.	Persist
+R Tibial - AH	4.9	52.1	≤56	80
+L Tibial - AH	4.8	58.0	≤56	75
+R Peroneal - EDB	5.2	NR	≤56	0
+  
+H Reflex Studies
+  
+Nerve	M-Lat	H-Lat	Ref.
+R Tibial (Gastroc)	5.1	30.2	≤34
+L Tibial (Gastroc)	5.0	33.9	≤34
+  
+EMG Summary Table	
+	Insert	Spontaneous	Vol Act	MUAP
+Muscle	Act	Fib	PSW	Fasc	Other	Effort	Recruit	Amp	Dur.	PPP
+Lt. Gastrocnemious	Norm	1+	1+	None	None	Max	Nml	Norm	Norm	Norm
+Lt Glut. Max.	Norm	1+	None	None	None	Max	Decr	1+	1+	Norm
+Lt. Tib. Ant.	Norm	None	None	None	None	Max	Nml	Norm	Norm	Norm
+Lt Tibialis Post	Norm	None	None	None	None	Max	Nml	Norm	Norm	Norm
+L Vast. Lat.	Norm	None	None	None	None	Max	Nml	Norm	Norm	Norm
+Lt. L5-S1 paraspinals	Norm	1+	1+	None	None					
+Rt. Gastrocnemius	Norm	None	None	None	None	Max	Nml	Norm	Norm	Norm
+Rt Tib. Ant.	Norm	None	None	None	None	Max	Nml	Norm	Norm	Norm
+  

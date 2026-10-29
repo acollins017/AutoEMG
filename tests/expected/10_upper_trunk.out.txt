@@ -1,0 +1,51 @@
+﻿=== SUMMARY ===
+The right radial sensory nerve showed a low amplitude. The right lateral antebrachial cutaneous nerve showed a low amplitude. All remaining sensory responses were normal.
+All motor responses were normal.
+The right Deltoid showed abnormal spontaneous activity, reduced recruitment, and increased motor unit amplitudes and durations. The right Biceps showed abnormal spontaneous activity, reduced recruitment, and increased motor unit amplitudes and durations. The right Infraspinatus showed abnormal spontaneous activity and reduced recruitment. The right Brachioradialis showed abnormal spontaneous activity and increased motor unit amplitudes and durations. All remaining muscles tested showed normal insertional activity, no abnormal spontaneous activity, normal motor unit amplitudes and durations, and normal recruitment patterns.
+
+=== IMPRESSION ===
+This is an abnormal electrodiagnostic study of the bilateral upper extremities which shows evidence of a right upper trunk brachial plexopathy, axonal, with active denervation.
+
+=== NOTES ===
+Age: 35   Sex: M   BMI group: unknown (using high)   Normals: AANEM   Indication: brachial plexopathy
+Studies parsed: 5 sensory, 2 motor, 0 F-wave, 0 H-reflex, 10 muscles.
+
+NOTES
+  - The right median-ulnar sensory peak latency difference was not graded because the two recording distances differ (13 vs 11 cm).
+
+ABNORMALITIES ATTRIBUTED TO
+  right radial sensory nerve -> plexus
+  right lateral antebrachial cutaneous nerve -> plexus
+  right Deltoid -> plexus
+  right Biceps -> plexus
+  right Infraspinatus -> plexus
+  right Brachioradialis -> plexus
+
+=== MEASUREMENTS ===
+normal      right median sensory nerve                  Peak latency                                      3.1 ms      <= 3.71 ms    AANEM 2016  [4 ms at 14 cm, scaled to 13 cm]
+normal      right median sensory nerve                  Amplitude                                         31 uV       >= 11 uV      AANEM 2016  [age 19-49, BMI >=24]
+normal      right median sensory nerve                  Conduction velocity                               54 m/s      >= 43 m/s     AANEM 2016
+normal      right ulnar sensory nerve                   Peak latency                                      2.7 ms      <= 3.14 ms    AANEM 2016  [4 ms at 14 cm, scaled to 11 cm]
+normal      right ulnar sensory nerve                   Amplitude                                         25 uV       >= 11 uV      AANEM 2016  [age 19-49, BMI >=24]
+normal      right ulnar sensory nerve                   Conduction velocity                               56 m/s      >= 45 m/s     AANEM 2016
+normal      right radial sensory nerve                  Peak latency                                      2.3 ms      <= 2.8 ms     AANEM 2016
+ABNORMAL    right radial sensory nerve                  Amplitude                                         5 uV        >= 7 uV       AANEM 2016
+normal      right radial sensory nerve                  Conduction velocity                               58 m/s      >= 50 m/s     AANEM 2016
+normal      right lateral antebrachial cutaneous nerve  Peak latency                                      2.2 ms      <= 2.5 ms     AANEM 2016
+ABNORMAL    right lateral antebrachial cutaneous nerve  Amplitude                                         3 uV        >= 5 uV       AANEM 2016
+normal      right lateral antebrachial cutaneous nerve  Conduction velocity                               58 m/s      >= 48 m/s     report Ref.
+normal      left lateral antebrachial cutaneous nerve   Peak latency                                      2.1 ms      <= 2.5 ms     AANEM 2016
+normal      left lateral antebrachial cutaneous nerve   Amplitude                                         12 uV       >= 5 uV       AANEM 2016
+normal      left lateral antebrachial cutaneous nerve   Conduction velocity                               60 m/s      >= 48 m/s     report Ref.
+normal      right median motor nerve                    Distal latency (Wrist)                            3.5 ms      <= 4.6 ms     AANEM 2016  [reference distance 8 cm; study 7 cm]
+normal      right median motor nerve                    Amplitude (Wrist)                                 9.1 mV      >= 5.9 mV     AANEM 2016
+normal      right median motor nerve                    CV in the forearm                                 56 m/s      >= 49 m/s     AANEM 2016
+normal      right median motor nerve                    Amplitude drop in the forearm                     5.5 %       <= 30 %       AANEM 2016  [duration change 5%]
+normal      right ulnar motor nerve at the ADM          Distal latency (Wrist)                            2.7 ms      <= 3.7 ms     AANEM 2016  [reference distance 8 cm; study 7 cm]
+normal      right ulnar motor nerve at the ADM          Amplitude (Wrist)                                 11 mV       >= 7.9 mV     AANEM 2016
+normal      right ulnar motor nerve at the ADM          CV below the elbow                                61 m/s      >= 52 m/s     AANEM 2016
+normal      right ulnar motor nerve at the ADM          Amplitude drop below the elbow                    5.5 %       <= 30 %       AANEM 2016  [duration change 3%]
+normal      right ulnar motor nerve at the ADM          CV across the elbow                               60 m/s      >= 43 m/s     AANEM 2016
+normal      right ulnar motor nerve at the ADM          Amplitude drop across the elbow                   1.9 %       <= 20 %       AANEM 2016  [duration change 2%]
+normal      right ulnar motor nerve at the ADM          CV drop across the elbow                          1 m/s       <= 15 m/s     AANEM 2016  [2% (limit 23%)]
+normal      Comparison studies                          Right median-ulnar motor distal latency difference0.8 ms      <= 1.4 ms     AANEM 2016

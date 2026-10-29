@@ -1,0 +1,59 @@
+﻿=== SUMMARY ===
+The right median sensory nerve showed a prolonged latency and slow conduction velocity. The left median sensory nerve showed no response. All remaining sensory responses were normal.
+The right median motor nerve showed prolonged latency. The left median motor nerve showed prolonged latency, low amplitude, and slowed conduction velocity in the forearm. All remaining motor responses were normal.
+The left APB showed increased insertional activity, abnormal spontaneous activity, reduced recruitment, and increased motor unit amplitudes and durations. All remaining muscles tested showed normal insertional activity, no abnormal spontaneous activity, normal motor unit amplitudes and durations, and normal recruitment patterns.
+
+=== IMPRESSION ===
+This is an abnormal electrodiagnostic study of the bilateral upper extremities which shows evidence of:
+1. A left, severe median neuropathy at the wrist, demyelinating and axonal. In this clinical context, this is consistent with a left, severe carpal tunnel syndrome.
+2. A right, moderate median neuropathy at the wrist, demyelinating. In this clinical context, this is consistent with a right, moderate carpal tunnel syndrome.
+
+=== NOTES ===
+Age: 52   Sex: F   BMI group: unknown (using high)   Normals: AANEM   Indication: carpal tunnel syndrome
+Studies parsed: 4 sensory, 4 motor, 0 F-wave, 0 H-reflex, 5 muscles.
+
+NOTES
+  - The right median-ulnar sensory peak latency difference was not graded because the two recording distances differ (13 vs 11 cm).
+
+ABNORMALITIES ATTRIBUTED TO
+  right median sensory nerve -> CTS
+  left median sensory nerve -> CTS
+  right median motor nerve -> CTS
+  left median motor nerve -> CTS
+  left APB -> CTS
+
+=== MEASUREMENTS ===
+ABNORMAL    right median sensory nerve                  Peak latency                                      4.6 ms      <= 3.71 ms    AANEM 2016  [4 ms at 14 cm, scaled to 13 cm]
+normal      right median sensory nerve                  Amplitude                                         15.2 uV     >= 7 uV       AANEM 2016  [age 50-79, BMI >=24]
+ABNORMAL    right median sensory nerve                  Conduction velocity                               36 m/s      >= 43 m/s     AANEM 2016
+ABNORMAL    left median sensory nerve                   Response                                          NR                          [no response]
+normal      right ulnar sensory nerve                   Peak latency                                      2.8 ms      <= 3.14 ms    AANEM 2016  [4 ms at 14 cm, scaled to 11 cm]
+normal      right ulnar sensory nerve                   Amplitude                                         24 uV       >= 5 uV       AANEM 2016  [age 50-79, BMI >=24]
+normal      right ulnar sensory nerve                   Conduction velocity                               55 m/s      >= 45 m/s     AANEM 2016
+normal      left ulnar sensory nerve                    Peak latency                                      2.9 ms      <= 3.14 ms    AANEM 2016  [4 ms at 14 cm, scaled to 11 cm]
+normal      left ulnar sensory nerve                    Amplitude                                         22 uV       >= 5 uV       AANEM 2016  [age 50-79, BMI >=24]
+normal      left ulnar sensory nerve                    Conduction velocity                               54 m/s      >= 45 m/s     AANEM 2016
+ABNORMAL    right median motor nerve                    Distal latency (Wrist)                            5.2 ms      <= 4.4 ms     AANEM 2016  [reference distance 8 cm; study 7 cm]
+normal      right median motor nerve                    Amplitude (Wrist)                                 6.8 mV      >= 4.2 mV     AANEM 2016
+normal      right median motor nerve                    CV in the forearm                                 52 m/s      >= 51 m/s     AANEM 2016
+normal      right median motor nerve                    Amplitude drop in the forearm                     4.4 %       <= 30 %       AANEM 2016  [duration change 5%]
+ABNORMAL    left median motor nerve                     Distal latency (Wrist)                            6.4 ms      <= 4.4 ms     AANEM 2016  [reference distance 8 cm; study 7 cm]
+ABNORMAL    left median motor nerve                     Amplitude (Wrist)                                 2.1 mV      >= 4.2 mV     AANEM 2016
+BORDERLINE  left median motor nerve                     CV in the forearm                                 50 m/s      >= 51 m/s     AANEM 2016
+normal      left median motor nerve                     Amplitude drop in the forearm                     4.8 %       <= 30 %       AANEM 2016  [duration change 5%]
+normal      right ulnar motor nerve at the ADM          Distal latency (Wrist)                            2.8 ms      <= 3.7 ms     AANEM 2016  [reference distance 8 cm; study 7 cm]
+normal      right ulnar motor nerve at the ADM          Amplitude (Wrist)                                 10.1 mV     >= 7.9 mV     AANEM 2016
+normal      right ulnar motor nerve at the ADM          CV below the elbow                                60 m/s      >= 52 m/s     AANEM 2016
+normal      right ulnar motor nerve at the ADM          Amplitude drop below the elbow                    5 %         <= 30 %       AANEM 2016  [duration change 3%]
+normal      right ulnar motor nerve at the ADM          CV across the elbow                               58 m/s      >= 43 m/s     AANEM 2016
+normal      right ulnar motor nerve at the ADM          Amplitude drop across the elbow                   2.1 %       <= 20 %       AANEM 2016  [duration change 2%]
+normal      right ulnar motor nerve at the ADM          CV drop across the elbow                          2 m/s       <= 15 m/s     AANEM 2016  [3% (limit 23%)]
+normal      left ulnar motor nerve at the ADM           Distal latency (Wrist)                            2.9 ms      <= 3.7 ms     AANEM 2016  [reference distance 8 cm; study 7 cm]
+normal      left ulnar motor nerve at the ADM           Amplitude (Wrist)                                 9.8 mV      >= 7.9 mV     AANEM 2016
+normal      left ulnar motor nerve at the ADM           CV below the elbow                                61 m/s      >= 52 m/s     AANEM 2016
+normal      left ulnar motor nerve at the ADM           Amplitude drop below the elbow                    5.1 %       <= 30 %       AANEM 2016  [duration change 3%]
+normal      left ulnar motor nerve at the ADM           CV across the elbow                               57 m/s      >= 43 m/s     AANEM 2016
+normal      left ulnar motor nerve at the ADM           Amplitude drop across the elbow                   2.2 %       <= 20 %       AANEM 2016  [duration change 2%]
+normal      left ulnar motor nerve at the ADM           CV drop across the elbow                          4 m/s       <= 15 m/s     AANEM 2016  [7% (limit 23%)]
+ABNORMAL    Comparison studies                          Right median-ulnar motor distal latency difference2.4 ms      <= 1.7 ms     AANEM 2016
+ABNORMAL    Comparison studies                          Left median-ulnar motor distal latency difference 3.5 ms      <= 1.7 ms     AANEM 2016
